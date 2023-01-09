@@ -12,6 +12,7 @@ def usar_la_fuerza (objeto,sable_luz)
 
 
 #Determinar si la mochila contiene un sable de luz y cuantos objetos fueron necesarios sacar para encontrarlo;
- 
+
+
 
 #Utilizar una lista para representar la mochila.
