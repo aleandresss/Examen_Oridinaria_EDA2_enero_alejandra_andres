@@ -1,8 +1,9 @@
 #algoritmo de la mochila 
 
 def mochila(objetos,capacidad):
-    x = [0 for j in range(capacidad+1)]
-            for i in range(len(objetos)+1)]
+    x = []
 
     for j in range (1,capacidad,+1):
         if peso > j
+            x [i][j] = resultados[i-1][j]
+            
