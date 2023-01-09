@@ -18,5 +18,8 @@ class stromtropper:
 
 Lista = [stromtropper("TK-8654,4"),stromtropper("TK-7564,7"),stromtropper("TK-230,2")]
 
+for st in stromtroppers:
+    print (stromtropper{})
+
 
 
